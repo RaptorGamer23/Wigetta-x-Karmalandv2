@@ -1,0 +1,14 @@
+#Dynamically calculated blood values - DON'T EDIT
+animania:kid_fainting=10
+animania:calf_highland=15
+iceandfire:if_cockatrice=8
+animania:kitten_ocelot=10
+grimpack:treasure=5
+animania:cow_highland=15
+animania:tom_ocelot=10
+animania:queen_ocelot=5
+animania:kid_angora=15
+animania:bull_highland=15
+quark:crab=4
+iceandfire:hippocampus=15
+teletubbies:dipsy=6
